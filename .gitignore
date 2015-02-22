@@ -1,0 +1,6 @@
+/vendor/
+/var/cache/*
+/var/logs/*
+/web/assets/.sass-cache
+/composer.lock
+/.idea/
